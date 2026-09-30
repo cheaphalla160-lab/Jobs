@@ -1,0 +1,6 @@
+{
+  "name": "Job Land: 趣味职业英语乐园",
+  "description": "专为小学英语教学设计的可爱职业单词互动学习乐园，包含发音点读、泡泡听音、侦探猜谜、翻牌记忆、拼词火车与课堂大转盘备课系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
